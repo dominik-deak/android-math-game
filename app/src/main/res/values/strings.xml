@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Coursework1</string>
+    <string name="welcomeText">Welcome to the arithmetic game\n\nMade by: Dominik Deak - w1778659</string>
+    <string name="newGameButtonText">New Game</string>
+    <string name="aboutButtonText">About</string>
+    <string name="popupText">Author: w1778659 - Dominik Deak\n\nI confirm that I understand what plagiarism is and have read and understood the section on Assessment Offences in the Essential Information for Students. The work that I have submitted is entirely my own. Any work from other authors is duly referenced and acknowledged.\n\n(Click to dismiss)</string>
+    <string name="greaterText">Greater</string>
+    <string name="equalsText">Equals</string>
+    <string name="lessText">Less</string>
+    <string name="correctText">CORRECT!</string>
+    <string name="incorrectText">INCORRECT!</string>
+    <string name="timerValue">50</string>
+    <string name="endViewPlaceholder">Correct answers:\nIncorrect answers:</string>
+</resources>
